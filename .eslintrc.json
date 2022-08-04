@@ -18,6 +18,8 @@
         "react"
     ],
     "rules": {
-        "no-use-before-define": 0
+        "no-use-before-define": 0,
+        "linebreak-style": ["error", "windows"],
+        "indent": ["error", "tab", 2]
     }
 }
