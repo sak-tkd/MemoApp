@@ -3,7 +3,7 @@ import {
     View, 
     TextInput, 
     StyleSheet, 
-    KeyboardAvoidingView, 
+    KeyboardAvoidingView,
 } from 'react-native';
 
 import AppBar from '../components/AppBar';
